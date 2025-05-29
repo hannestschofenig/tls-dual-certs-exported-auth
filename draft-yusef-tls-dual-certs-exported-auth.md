@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Post-Quantum Traditional (PQ/T) Hybrid Authentication with Dual Certificates Using Exported Authenticators in TLS 1.3"
+abbrev: "Dual Certs in TLS"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-yusef-tls-dual-certs-exported-auth-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -36,12 +36,11 @@ keyword:
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
+  group: LAMPS
   type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  mail: spasm@ietf.org
+  arch: https://datatracker.ietf.org/wg/lamps/about/
+  github: "hannestschofenig/tls-dual-certs-exported-auth"
 
 author:
  -
